@@ -13,4 +13,4 @@
 The micro SD card that I have could barely hold the additional space that I will eventually need so it looks like I will need to start trimming it down.  Offensive Security offers the Kali Raspberry Pi image for those that want to tinker with it.
 
 ###Other Kali offerings
-Check out my Kali Nethunter notes <a href="https://github.com/hcs0/nhunter-notes">here</a>
+Check out my Kali Nethunter notes <a href="https://github.com/hcs0/kali-nethunter">here</a>
