@@ -1,7 +1,5 @@
 # Notes using Kali on a Raspberry Pi 2
 
-<img src="https://pbs.twimg.com/media/Ceh65vxWIAAQt1Z.jpg">
-
 ###Set-up and install
 1. Download and validate the SHA1 on the Kali Linux ARM <a href="https://www.offensive-security.com/kali-linux-arm-images/">Downloads</a> page.  Further steps are available <a href="http://docs.kali.org/kali-on-arm/install-kali-linux-arm-raspberry-pi">here</a>
 2. Recommended that you use a Linux machine to ready the micro SD card.  
