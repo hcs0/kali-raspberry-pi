@@ -6,7 +6,8 @@
 3. Once it's good to go, insert it into the Raspberry Pi 2.  
 4. Make sure to also change the SSH host keys <a href="http://docs.kali.org/kali-on-arm/install-kali-linux-arm-raspberry-pi">here</a>
 5. Add another user to the group so that you don't use this as root.
-6.What else..
+
+What else..
 
 ###More notes to come...
 **First impression**
